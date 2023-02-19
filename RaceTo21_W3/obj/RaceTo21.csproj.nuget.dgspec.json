@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/cuiwenyue/Downloads/RaceTo21_W4_Draft/RaceTo21_W3/RaceTo21.csproj": {}
+  },
+  "projects": {
+    "/Users/cuiwenyue/Downloads/RaceTo21_W4_Draft/RaceTo21_W3/RaceTo21.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/cuiwenyue/Downloads/RaceTo21_W4_Draft/RaceTo21_W3/RaceTo21.csproj",
+        "projectName": "RaceTo21_W3",
+        "projectPath": "/Users/cuiwenyue/Downloads/RaceTo21_W4_Draft/RaceTo21_W3/RaceTo21.csproj",
+        "packagesPath": "/Users/cuiwenyue/.nuget/packages/",
+        "outputPath": "/Users/cuiwenyue/Downloads/RaceTo21_W4_Draft/RaceTo21_W3/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/cuiwenyue/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
